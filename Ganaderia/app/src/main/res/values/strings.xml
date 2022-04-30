@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ganaderia</string>
+
+
+    <string name="btnLogin">Ingresar</string>
+    <string name="btnRegister">Registrar</string>
+    <string name="btnLogout">Salir</string>
+
+    <string name="btnBack">Regresar</string>
+    <string name="btnRegister2">Registrar</string>
+
+    <string name="your_web_client_id">125901511702-iba4aj9o8b1qkg6gag5urom6j89j232h.apps.googleusercontent.com</string>
+</resources>

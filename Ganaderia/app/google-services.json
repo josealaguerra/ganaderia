@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125901511702",
+    "project_id": "ganaderia-677c0",
+    "storage_bucket": "ganaderia-677c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125901511702:android:dc1938771b45ae61de2937",
+        "android_client_info": {
+          "package_name": "org.jag.ganaderia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125901511702-iba4aj9o8b1qkg6gag5urom6j89j232h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1UCvC1Q0pYDkiqLFamdESsS_yuutSjOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125901511702-iba4aj9o8b1qkg6gag5urom6j89j232h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
